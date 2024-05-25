@@ -1,0 +1,6 @@
+Test Case Id,Test Summary,Description,Prerequisite,Test Steps,Test Data,Expected Result,Actaul Result,Test Result,Automation Status,Date,Executed By
+1,Testing User input & Password,"At the login page, apply positive testing for the username and password.","1. Internet is working properly.
+2. Website link is working properly.","1. Navigate to the website ""https://www.saucedemo.com""
+2. Enter username
+3.Enter password","Username: standard_user
+Password: secret_sauce",Login is successfull,Login is successfull,Pass,None,26/05/2024,Rohit Pawar
